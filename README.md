@@ -23,8 +23,6 @@ Lysosomal alpha-glucosidase (GAA) is an enzyme that breaks down glycogen into gl
 **3. How many potential N-glycosylation motifs did you find? Where are they located?**
 - Based on the figure, the GAA protein contains 7 potential N-glycosylation motifs distributed along its amino acid sequence. These motifs are located approximately at amino acid positions 140, 233, 390, 470, 652, 882, and 925. Each follows the N-X-S/T pattern, where X can be any amino acid except proline. These are only potential glycosylation sites; their presence does not confirm that glycosylation actually occurs.
 
-NOTE: the numbers above are only estimates from figure 2
-
 **4. Why can glycosylation matter for lysosomal proteins? Does finding a motif prove the protein is glycosylated?**
 - Glycosylation is important because it can help proteins fold properly, remain stable, and reach their correct destination in the cell. For GAA, certain carbohydrate chains can receive mannose-6-phosphate tags that help direct the enzyme to lysosomes. However, finding an N-X-S/T motif does not confirm that glycosylation occurs. It only shows a possible site where a sugar chain may attach, and further testing is needed to verify it.
 
